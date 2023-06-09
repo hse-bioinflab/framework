@@ -1,0 +1,12 @@
+[submodule "DL-template"]
+	path = DL-template
+	url = https://github.com/hse-bioinflab/DL-template
+[submodule "DomainAdaptation"]
+	path = DomainAdaptation
+	url = https://github.com/theopavlove/ModuleDomainAdaptation
+[submodule "OmicsDC"]
+	path = OmicsDC
+	url = https://github.com/hse-bioinflab/OmicsDC
+[submodule "Association"]
+	path = Association
+	url = https://github.com/Madund3ad/Association
