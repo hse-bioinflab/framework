@@ -10,3 +10,6 @@
 [submodule "Association"]
 	path = Association
 	url = https://github.com/Madund3ad/Association
+[submodule "Interpretation"]
+	path = Interpretation
+	url = git@github.com:vladislareon/Interpretation.git
